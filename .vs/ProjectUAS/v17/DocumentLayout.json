@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\SMT 3\\Grafika Komputer\\ProjectUAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A98895B-BC83-47C4-A0AF-5DBBE823D251}|ProjectUAS.vcxproj|D:\\Kuliah\\SMT 3\\Grafika Komputer\\ProjectUAS\\p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A98895B-BC83-47C4-A0AF-5DBBE823D251}|ProjectUAS.vcxproj|solutionrelative:p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p.cpp",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Grafika Komputer\\ProjectUAS\\p.cpp",
+              "RelativeDocumentMoniker": "p.cpp",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Grafika Komputer\\ProjectUAS\\p.cpp",
+              "RelativeToolTip": "p.cpp",
+              "ViewState": "AgIAAPkDAAAAAAAAAAAAAP4DAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T04:57:54.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
